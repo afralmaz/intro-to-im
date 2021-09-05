@@ -1,2 +1,2 @@
-# intro-to-im
+# afra's-intro-to-im
 hello
