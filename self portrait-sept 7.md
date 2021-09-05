@@ -38,7 +38,7 @@ triangle(20,20,60,20,40,60);
 Throughout the process, I also learned the noStroke(); and stroke(); codes. After playing around with it, I learned that if I wanted a specific object with a stroke, I can write the width and colors of the stroke, and then write "noStroke" after it with other shapes that did not need strokes. I was honestly proud of myself for learning that because when I first started working on the self portrait I thought I would have to live with the lines on all the shapes :0. 
 
 
-My first attempt at a self portrait:
+My first attempt at a self portrait (it is okay to laugh):
 
 
 <img width="691" alt="Screen Shot 2021-09-05 at 1 00 40 AM" src="https://user-images.githubusercontent.com/89835180/132107935-dd44af7b-83ae-41d5-a320-4a5cc2165ca1.png">
