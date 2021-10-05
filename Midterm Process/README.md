@@ -17,6 +17,7 @@ The start page:
 
 <img width="1440" alt="Screen Shot 2021-10-05 at 8 46 34 PM" src="https://user-images.githubusercontent.com/89835180/136066837-233e397e-d0f4-4427-9fd8-f1cdfce7b80d.png">
 
+Game page:
 
 <img width="1440" alt="Screen Shot 2021-10-05 at 8 53 39 PM" src="https://user-images.githubusercontent.com/89835180/136067877-19021d8c-8b4c-46ff-b38e-c9eb99dedc39.png">
 
