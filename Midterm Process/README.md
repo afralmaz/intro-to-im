@@ -6,4 +6,4 @@ Start page:
 -	I used the LoadFont instead of using the CreateFont function because I found it easier to use.
 
 To change to the next page, I used the mouseClicked function to take the player to the game. My idea is to create squares around the page. The player can interact with the squares by the mouseX, mouseY function to explore the page. Each circle will take the player to a “journey to self love”.
-![image](https://user-images.githubusercontent.com/89835180/136064072-1bf8b57d-157d-4f17-93bc-2f655fc259b8.png)
+
