@@ -20,8 +20,7 @@ In the self love stage, when you spell the word 'love', every letter gives you a
 
 With the sound, I had a lot of issues at first, but worked on fixing them till I got it right! My issue with the sound file was that I kept getting a sound library error saying “unable to find file”. At first, I thought it was an issue because the .mp3 file was three minutes long and that it might have been too huge. When I went on discord I saw that Ansh mentioned they had the same problem and fixed it by converting their .mp3 file to a .wav file. That was exactly what I did by usuing a converter website and put the .wav file into my date folder. After a few errors, I managed to sucessfully sketch a path from my desktop to the sound file and make the song play when the program ran.
 
-Some facts about the code:
-
 - I used the mouse clicked function (if/else) to make the pages change from the introduction page to the "game" page. 
 - I created three different main fonts for the game. 
 
+Through out creating my midterm project, I realized how I really grew from the beginning of the class, where creating a circle on processing was stressful for me! I feel proud about this growth and excited for what to do next. 
