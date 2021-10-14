@@ -1,6 +1,6 @@
 __Midterm__
 
-To me, the midterm project was more than an assignment. While working on the project, I explored parts about myself that I did not expect to in this class, but am glad I did. It is an exploration to what I feel like are the three stages to self love: realization, acceptance, and finally love.
+To me, the midterm project was more than an assignment. While working on the project, I explored parts about myself that I did not expect to in this class, but am glad I did. The game is an exploration to what I feel like are the three stages to self love: realization, acceptance, and finally love.
 
 While working on this project, my first draft of code (uploaded as journal 1) was all based on the draw function, without other classes. After my meeting with Michael, I created classes to make it easier to create the game and that became my final code.
 
@@ -15,4 +15,13 @@ In the acceptance stage, I created a photo array of images I wanted to display. 
 2. https://stackoverflow.com/questions/67512581/processing-mousepressed
 
 - I used this code to fix the issue I was having and let the images appear in a sequence of order. I created integers for the first and last images, and a boolean to show and hide the images that appeared. 
+
+In the self love stage, when you spell the word 'love', every letter gives you a quote or a sentence. I looked up how to use the keyPressed function in the processing tutorials page and implemented that into my code.
+
+With the sound, I had a lot of issues at first, but worked on fixing them till I got it right! My issue with the sound file was that I kept getting a sound library error saying “unable to find file”. At first, I thought it was an issue because the .mp3 file was three minutes long and that it might have been too huge. When I went on discord I saw that Ansh mentioned they had the same problem and fixed it by converting their .mp3 file to a .wav file. That was exactly what I did by usuing a converter website and put the .wav file into my date folder. After a few errors, I managed to sucessfully sketch a path from my desktop to the sound file and make the song play when the program ran.
+
+Some facts about the code:
+
+- I used the mouse clicked function (if/else) to make the pages change from the introduction page to the "game" page. 
+- I created three different main fonts for the game. 
 
