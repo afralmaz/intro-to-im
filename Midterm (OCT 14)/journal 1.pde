@@ -1,7 +1,8 @@
 // My first draft of my midterm code:
 
-This was my first code for the project. It had the basic ideas of what I wanted to do, but with the help of Michael, I figured out an easier way to implement what 
-I wanted to do exactly. The code here is complicated because I did not make classes for the interactive squares, but did everything in the draw class. 
+//This was my first code for the project. It had the basic ideas of what I wanted to do, but with the help of Michael, I figured out an easier way to 
+//implement what I wanted to do exactly. The code here is complicated because I did not make classes for the interactive squares,
+//but did everything in the draw class. 
 
 //growing circles for 'realization' stage
 float centerX;
