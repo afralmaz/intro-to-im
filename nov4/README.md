@@ -27,5 +27,6 @@ This project helped me get familiar with how arduino works, and how to connect w
 
 
 
-https://user-images.githubusercontent.com/89835180/140533398-c2ae7464-3344-4d57-b6c7-7f13196eea46.MOV
+![ezgif com-gif-maker copy](https://user-images.githubusercontent.com/89835180/140534035-43782de4-865d-4f6a-9062-fd2c5a8cd657.gif)
+
 
