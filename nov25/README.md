@@ -10,10 +10,14 @@ Difficulties:
 
 
 Schematic:
+
+
 <img width="523" alt="Screen Shot 2021-11-25 at 5 04 26 PM" src="https://user-images.githubusercontent.com/89835180/143446791-7e810a23-d7c1-4a57-ae55-8da637e8d218.png">
 
 
 Photo of board:
+
+
 <img width="515" alt="Screen Shot 2021-11-25 at 5 04 34 PM" src="https://user-images.githubusercontent.com/89835180/143446815-0925461e-9c67-4325-a620-9c6881e77cfc.png">
 
 
