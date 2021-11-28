@@ -6,10 +6,9 @@ Photo of the board:
 
 Wheels on the move:
 
-
-https://user-images.githubusercontent.com/89835180/143782770-da7ae4cb-9f35-44d0-94ab-d1cc2b6c3a82.MOV
-
+https://youtu.be/zVTH0kN8_4g
 
 
 Wheels controlled by four buttons to move front, backwards, left, and right:
 
+https://youtu.be/PVN-PIV8Z8k
