@@ -1,4 +1,4 @@
-We worked on making sure the motors worked on our first meeting. 
+We worked on making sure the motors worked on our first meeting!
 
 Photo of the board:
 
@@ -12,3 +12,4 @@ https://youtu.be/zVTH0kN8_4g
 Wheels controlled by four buttons to move front, backwards, left, and right:
 
 https://youtu.be/PVN-PIV8Z8k
+
