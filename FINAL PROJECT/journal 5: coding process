@@ -1,0 +1,3 @@
+The coding part was mostly making sure the radios communicated properly. Setting up what the robot should do when it received a particular input was easy, but the hard part would begin when the robot did not move as planned. It was particularly hard to pinpoint where exactly the problem was once we introduced Processing to the code and started sending Processing signals to the Arduino transmitter because it is not possible to read from the Serial monitor while receiving input from Processing on Arduino.
+
+But we were able to solve that problem by following Michael's advice of hooking up LEDs to the circuit to see where in the code the issue was present.
